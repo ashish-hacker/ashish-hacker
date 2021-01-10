@@ -11,5 +11,5 @@
 - 💬 Ask me about *ML,Python,Neural Networks*
 - 📫 How to reach me: akpanigrahy26@gmail.com
 - 😄 Pronouns: You can find me one
-- ⚡ Fun fact: I can work all night and binge movies all day
+- ⚡ Fun fact: I can work all night and binge movies all day 😄
 
