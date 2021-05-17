@@ -11,15 +11,18 @@
 <!-- [![](https://img.shields.io/badge/Hacker%20Earth-%2312100E.svg?&style=flat&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@semanurkps) -->
 [![](https://img.shields.io/badge/Email-akpanigrahy26%40gmail.com-blue)](mailto:akpanigrahy26@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-hacker" alt="ashish-hacker" /> </p>
-### Hi there 👋
-- 🔭 I’m currently working on **Machine Learning** and **Neural Networks**.
-- 🌱 I’m currently learning **Big Data**, **Deep Learning** and **MLOps**
-- 👯 I’m looking to collaborate on **Machine Learning, Computer Vision**
-- 🤔 I’m looking for help with **Big Data and Model Deployment**
-- 💬 Ask me about *ML,Python,Neural Networks*
-- 📫 How to reach me: akpanigrahy26@gmail.com
-- 😄 Pronouns: You can find me one
-- ⚡ Fun fact: I can work all night and binge movies all day 😄
+<h1>Hi there 👋</h1>
+<ul>
+  <li>🔭 I’m currently working on <b>Machine Learning</b> and <b>Neural Networks</b>.</li>
+  <li>🌱 I’m currently learning <b>Big Data</b>, <b>Deep Learning</b> and <b>MLOps</b>. </li>
+  <li>👯 I’m looking to collaborate on <b>Machine Learning, Computer Vision</b> </li>
+  <li>🤔 I’m looking for help with <b>Big Data and Model Deployment</b> </li>
+  <li>💬 Ask me about <b>ML,Python,Neural Networks</b>.</li>
+  <li>📫 How to reach me: akpanigrahy26@gmail.com </li>
+  <li>😄 Pronouns: he/him </li>
+  <li>⚡ Fun fact: I can work all night and binge movies all day or binge day & night😄 </li>
+</ul>
+
 
 <!--
 **ashish-hacker/ashish-hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
