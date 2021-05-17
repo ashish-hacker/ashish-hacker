@@ -1,5 +1,6 @@
 
 # Ashish Kumar Panigrahy
+
 [![](https://img.shields.io/badge/-Gmail-red)](akpanigrahy26@gmail.com)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akpdata/)
 <!-- [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@) -->
@@ -10,8 +11,6 @@
 <!-- [![](https://img.shields.io/badge/Hacker%20Earth-%2312100E.svg?&style=flat&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@semanurkps) -->
 [![](https://img.shields.io/badge/Email-akpanigrahy26%40gmail.com-blue)](mailto:akpanigrahy26@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-hacker" alt="ashish-hacker" /> </p>
-<!--
-**ashish-hacker/ashish-hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Hi there 👋
 - 🔭 I’m currently working on **Machine Learning** and **Neural Networks**.
 - 🌱 I’m currently learning **Big Data**, **Deep Learning** and **MLOps**
@@ -22,4 +21,8 @@
 - 😄 Pronouns: You can find me one
 - ⚡ Fun fact: I can work all night and binge movies all day 😄
 
+<!--
+**ashish-hacker/ashish-hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=ashish-hacker&show_icons=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-hacker&theme=onedark&langs_count=8&layout=compact" />
