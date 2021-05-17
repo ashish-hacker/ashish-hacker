@@ -1,6 +1,7 @@
 
 # Ashish Kumar Panigrahy
 [**LinkedIn**](https://www.linkedin.com/in/ashish-kumar-panigrahy-726424199/)             [**GMail**](akpanigrahy26@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-hacker" alt="ashish-hacker" /> </p>
 <!--
 **ashish-hacker/ashish-hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Hi there 👋
