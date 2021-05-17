@@ -1,14 +1,15 @@
 
 # Ashish Kumar Panigrahy
 
-[![](https://img.shields.io/badge/-Gmail-red)](akpanigrahy26@gmail.com)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akpdata/)
+
 <!-- [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@) -->
 <!-- [![](https://img.shields.io/badge/Data%20Science%20Earth-%2312100E.svg?&style=flat)](https://www.datasciencearth.com/author/) -->
+<!-- [![](https://img.shields.io/badge/Hacker%20Earth-%2312100E.svg?&style=flat&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@semanurkps) -->
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/akpanigrahy26)
 [![](https://img.shields.io/badge/Leetcode-%2312100E.svg?&style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/litAshish/)
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ashishkumarpanigrahy)
-<!-- [![](https://img.shields.io/badge/Hacker%20Earth-%2312100E.svg?&style=flat&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@semanurkps) -->
+[![](https://img.shields.io/badge/-Gmail-red)](akpanigrahy26@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akpdata/)
 [![](https://img.shields.io/badge/Email-akpanigrahy26%40gmail.com-blue)](mailto:akpanigrahy26@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-hacker" alt="ashish-hacker" /> </p>
 <h1>Hi there 👋</h1>
@@ -28,4 +29,4 @@
 **ashish-hacker/ashish-hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=ashish-hacker&show_icons=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-hacker&theme=onedark&langs_count=8&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-hacker&theme=white&langs_count=8&layout=compact" />
