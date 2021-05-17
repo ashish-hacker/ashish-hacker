@@ -14,3 +14,4 @@
 - 😄 Pronouns: You can find me one
 - ⚡ Fun fact: I can work all night and binge movies all day 😄
 
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=ashish-hacker&show_icons=true">
