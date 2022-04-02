@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akpdata/)
 [![](https://img.shields.io/badge/Email-akpanigrahy26%40gmail.com-blue)](mailto:akpanigrahy26@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-hacker" alt="ashish-hacker" /> </p>
-<h1>Hi there 👋</h1>
+<h1>Hi there 👋</h1><!--
 <ul>
   <li>🔭 I’m currently working on <b>Machine Learning</b> and <b>Neural Networks</b>.</li>
   <li>🌱 I’m currently learning <b>Big Data</b>, <b>Deep Learning</b> and <b>MLOps</b>. </li>
@@ -22,7 +22,7 @@
   <li>📫 How to reach me: akpanigrahy26@gmail.com </li>
   <li>😄 Pronouns: he/him </li>
   <li>⚡ Fun fact: I can work all night and binge movies all day or binge day & night😄 </li>
-</ul>
+</ul> -->
 
 
 <!--
